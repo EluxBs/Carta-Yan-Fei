@@ -1,5 +1,5 @@
 body {
-    background-image: url("../html/img/Fondo.jpg");
+    background-image: url("./img/Fondo.jpg");
     background-size: 100% 100%;
     background-attachment: fixed;
     background-color: rgb(166, 249, 221);
