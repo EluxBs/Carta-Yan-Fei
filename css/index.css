@@ -1,0 +1,49 @@
+body {
+    background-image: url("../html/img/Fondo.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-color: rgb(166, 249, 221);
+}
+
+article {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nombre {
+    font-weight: bold;
+    font-size: 1.25em;
+    color: #9e1b2f;
+    background-color: #FAE5D3;
+    text-align: center;
+    border: solid rgb(0, 0, 0, 0.421);
+    border-radius: .5em;
+    width: 8em;
+    top: 3em;
+    z-index: 2;
+}
+
+.nombre p {
+    margin-top: .25em;
+    margin-bottom: .25em;
+}
+
+article img {
+    margin: 0em 4em;
+    width: 12em;
+}
+
+.detalle {
+    color: #ef4f67;
+    background-color: antiquewhite;
+    border: solid rgba(0, 0, 0, 0.421);
+    border-radius: .5rem;
+    padding: 1.5em;
+    width: 20em;
+    top: 2.25em;
+}
+
+.descripcion {
+    text-align: justify;
+}
